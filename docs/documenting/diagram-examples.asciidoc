@@ -13,11 +13,9 @@ layout: docs
 Besides inserting your locally created images, the
 link:https://github.com/mhaberler/docker-jekyll-asciidoctor/tree/master/jekyll-asciidoctor-base[formatting engine]
 used for the machinekit website supports a variety of embedded diagram types:
-Diagrams can be created by embedded markup and will be rendered to images in the website automatically.
+Diagrams can be created by embedded markup and will be rendered to images in the website automatically. See the link:https://github.com/asciidoctor/asciidoctor-diagram[Asciidoctor Diagram manual] for details.
 
-See the link:https://github.com/asciidoctor/asciidoctor-diagram[Asciidoctor Diagram manual] for details.
-
-
+To see how the examples on this page were created, just click the _Edit this page link.
 
 === ditaa - DIagrams Through Ascii Art
 
